@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Desafio Correspondiente a la fecha 29 de julio.
+
+* Consideraciones: HEADER NAME (X-CLIENTE)
